@@ -8,7 +8,7 @@ Because I wanna make some important links accessible easily through whatsapp.
 
 ## Installation
 
-Install dependencies on package.json.
+Install dependencies with npm on package.json
 
 ## Usage
 
